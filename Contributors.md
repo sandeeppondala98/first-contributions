@@ -1286,6 +1286,7 @@ Patrizia Trammell
 - [Aditya](https://github.com/aditya)
 - [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
+- [sandeep](https://github.com/sandeeppondala98)
 - [Ujjawal Jaiswal](https://github.com/ujjawaljaiswal2017)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
